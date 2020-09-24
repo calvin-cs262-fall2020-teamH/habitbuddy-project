@@ -1,5 +1,4 @@
 # HabitBuddy
-## CS 262, Team H
 ### Team Members:
   * Andrew Baker (andrewJamesBaker)
   * Dawson Buist (Bongo9911)
