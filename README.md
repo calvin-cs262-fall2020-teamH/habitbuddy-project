@@ -12,6 +12,6 @@ Good habits are difficult to start and difficult to keep. Even the most diligent
 
 Our mobile app, HabitBuddy, provides a way for someone to start a new habit by matching them to another Buddy. Our goal is to connect Buddies with similar goals and encourage them to start a habit together. On our app, first-time Buddies fill out a basic profile and state a habit(s) they want to maintain. The Buddies will declare their new habit in the form of "habit stacking", a simple sentence format inspired by *Atomic Habits* that makes anchoring a new habit easy: After [current habit], I will [new habit]. While other habit-tracking apps boast motivating reminders and cool scheduling formats, HabitBuddy allows people to make a personal connection, not just with their habits, but with others who will inspire and motivate them. After the match, Habit Buddy provides basic contact information and lets the Buddies make the first move to connect. Because Buddies are also matched based on interests, like their favourite band or salty snack, they have another opportunity to anchor their new habit to their Buddy and their shared interest.
 
-* Design Models: [Class Diagram](), [UI Model]()
+* Design Models: [Class Diagram](https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-project/blob/master/classDiagram.png), [UI Model](https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-project/blob/master/uiModel.png)
 * Presentation Materials
 * Other Documents
