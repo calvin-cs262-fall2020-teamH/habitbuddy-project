@@ -17,4 +17,4 @@ Our mobile app, HabitBuddy, provides a way for someone to start a new habit by m
 
 * Design Models: [Domain Model](https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-project/blob/master/classDiagram.png), [UI Model](https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-project/blob/master/uiModel.png)
 * Presentation Materials
-* Other Documents
+* Other Documentation
