@@ -20,6 +20,7 @@ While other habit-tracking apps boast motivating reminders and cool scheduling f
   * Kelsey Yen (kny4)
   
 # Links
-* Design Models: [Domain Model](https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-project/blob/master/domainModel.png), [UI Model](https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-project/blob/master/uiModel.png)
+* Design Models: [Domain Model](https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-project/blob/master/domainModel.png), [UI Model](https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-project/blob/master/uiModel.png), [Deployment Model](https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-project/blob/master/delplomentModel.png)
 * Presentation Materials: [Design Presentation](https://docs.google.com/presentation/d/1XhNEDDf948LKG8rELkPv2_b_VnsMn8hTB-HT7EMmBMQ/edit?usp=sharing)
 * Other Documentation: [User Test Results](https://docs.google.com/document/d/10Sz3XVWAsPAbcXoakcAUVuRSe4gs4wmqlzQ2MvRs254/edit)
+* Other Repos: [Client](https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-client), [Service]https://github.com/calvin-cs262-fall2020-teamH/habitbuddy-service)
